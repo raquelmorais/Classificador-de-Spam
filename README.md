@@ -12,4 +12,4 @@ O download das bibliotecas pode ser feito através do Pip (sistema de gerenciame
 Para conferir de o pip foi instalado juntamente com o Pyhton, basta digitar "pip" no cmd.
 Para fazer o download de alguma biblioteca, basta digitar "pip install NOME_DA_BIBLIOTECA"
 
-Depois, basta abrir os arquivos .py com o Python IDLE e executar o módulo.
+Depois, basta abrir os arquivos .py com o Python IDLE, mudar o local do arquivo com a base de dados e executar o módulo.
