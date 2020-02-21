@@ -1,5 +1,7 @@
 # Classificador-de-Spam
 
+Utiliza os algoritmos de Naive Bayes e de Support Vector Machine para fazer classificação de e-mails e identificar spams.
+
 Para rodar os arquivos do projeto, são necessários:
 
 - Python 3.7 https://www.python.org/downloads/release/python-370/
