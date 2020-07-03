@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 ### carregando dados
-endereco_arquivo = "C:/Users/Ana Raquel/Senior/desafio/sms_senior.csv"
+endereco_arquivo = "sms.csv"
 base = pd.read_csv(endereco_arquivo, encoding = "ISO-8859-1")
 base_comum = base.loc[base['IsSpam'] == 'comum']
 ### carregando dados
