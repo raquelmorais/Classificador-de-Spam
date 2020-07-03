@@ -12,7 +12,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.svm import SVC, NuSVC, LinearSVC
 
 ### carregando dados
-endereco_arquivo = 'C:/Users/Ana Raquel/Senior/desafio/sms_senior.csv'
+endereco_arquivo = 'sms.csv'
 base = pd.read_csv(endereco_arquivo, encoding = "ISO-8859-1")
 
 ### infomacoes da base
