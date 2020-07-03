@@ -4,7 +4,7 @@ import pandas as pd
 
 
 ### carregando dados
-endereco_arquivo = "C:/Users/Ana Raquel/Senior/desafio/sms_senior.csv"
+endereco_arquivo = "C:/Users/Ana Raquel/Senior/desafio/sms.csv"
 base = pd.read_csv(endereco_arquivo, encoding = "ISO-8859-1")
 ### carregando dados
 
