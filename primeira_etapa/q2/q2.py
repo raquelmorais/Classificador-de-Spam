@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 #### QUESTAO 2 - classificacao por mês
 
 ### carregando dados
-endereco_arquivo = "C:/Users/Ana Raquel/Senior/desafio/sms_senior.csv"
+endereco_arquivo = "C:/Users/Ana Raquel/Senior/desafio/sms.csv"
 base = pd.read_csv(endereco_arquivo, encoding = "ISO-8859-1")
 
 print("Questão 2: ")
